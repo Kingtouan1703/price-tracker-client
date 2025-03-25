@@ -53,3 +53,4 @@ export default tseslint.config({
 })
 ```
 # price-tracker-client
+# price-tracker-client
